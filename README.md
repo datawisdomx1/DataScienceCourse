@@ -20,3 +20,5 @@ Throughout the course detailed lectures covering the maths/logic of the algorith
  - It has python code examples for each algorithm and a full model building and deployment example
 
 Repository for the Data Science course. Each part of the course will have a separate folder with sub folders containing lectures, code and other files.
+
+New username for 2FA
